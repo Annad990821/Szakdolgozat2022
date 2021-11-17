@@ -1,0 +1,22 @@
+{
+  "name": "onlineptgeknyilvrendszere",
+  "version": "1.0.0",
+  "description": "Kedves Felhaszn�l�!\r Az Online P�nzt�rg�pek Nyilv�ntart� Adatb�zis�t p�nzt�rg�p m�szer�szek r�sz�re k�sz�tettem. Seg�ts�g�vel �j adatokat vihetnek fel az adatb�zisukba, t�r�lhetnek bel�le �s k�l�nb�z� csoportokban lek�rdez�seket hajthatnak v�gre. Alapvet�en ezt a h�rom funkci�t val�s�tottam meg egy k�nnyen kezelhet� webalkalmaz�s fel�let�n.",
+  "main": "index.js",
+  "dependencies": {
+    "react-dropdown": "^1.9.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Annad990821/OnlinePtgekNyilvRendszere.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Annad990821/OnlinePtgekNyilvRendszere/issues"
+  },
+  "homepage": "https://github.com/Annad990821/OnlinePtgekNyilvRendszere#readme"
+}

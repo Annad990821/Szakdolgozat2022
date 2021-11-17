@@ -1,0 +1,63 @@
+﻿.inputFieldError
+{
+    font-size: 10px;
+    color: red;
+    padding: 0;
+    margin: 0;
+}
+
+.inputFieldValid {
+    font-size: 10px;
+    color: lime;
+    padding: 0;
+    margin: 0;
+}
+
+.inputFieldTitle {
+    margin: 0;
+    padding: 0;
+    padding-top: 10px;
+}
+
+.formSubmitButton {
+    background-color: rgb(0,200,0);
+    color: white;
+    width: 100%;
+    padding: 0;
+    padding-top:5px;
+    padding-bottom: 5px;
+    margin: 0;
+    text-align:center;
+    border-radius: 5px;
+    outline: none;
+    border:none;
+}
+    .formSubmitButton:hover {
+        background-color: rgb(0,220,0);
+        -webkit-box-shadow: inset 0px 0px 15px 0px #fff;
+        box-shadow: inset 0px 0px 15px 0px #fff;
+    }
+
+    .formSubmitButton:active {
+        background-color: rgb(0,180,0);
+        -webkit-box-shadow: inset 0px 0px 5px 0px rgba(255,255,255,0.3);
+        box-shadow: inset 0px 0px 5px 0px rgba(0,0,0,0.2);
+    }
+
+    .modalForm select {
+        width: 230px !important;
+        margin: 0;
+    }
+    .modalForm input[type=text] {
+        width: 100%;
+    }
+
+.input-group-append input[type=text]
+{
+    width: 200px;
+}
+
+.card {
+    background-color: rgba(255,255,255,0.2);
+    padding: 10px;
+}

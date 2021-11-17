@@ -1,0 +1,991 @@
+﻿id,irsz,varos,utca,hsz
+,3620,Felsőnyárád,Köztársaság,65
+,3039,Alsóberecki,Tarjáni,21
+,3094,Hejőbába,Rét,23
+,3485,Sóstófalva,Apród,51
+,3937,Lénárddaróc,Hunyadi Mátyás,50
+,3732,Rakacaszend,Kóczos,92
+,3396,Vámosújfalu,Hegytető,65
+,3664,Olaszliszka,Horváth Mihály,72
+,3706,Tiszaújváros,Bem József,11
+,3160,Hercegkút,József Attila,11
+,3684,Teresztenye,Balassi Bálint,1
+,3597,Mályinka,Tüzér,56
+,3733,Perkupa,Dobó István,28
+,3166,Szuhogy,Kandó Kálmán,93
+,3722,Sátoraljaújhely,Veres Péter,63
+,3386,Hangony,Sóderos,3
+,3007,Pácin,Buzogány,20
+,3485,Bekecs,Kövestéri,118
+,3518,Sajóhídvég,Kóczos,45
+,3333,Korlát,Majtényi,85
+,3043,Tornyosnémeti,Vas Gereben,90
+,3089,Felsődobsza,Major,93
+,3987,Tarcal,Strázsahegyi,73
+,3750,Gesztely,Mikes,51
+,3758,Teresztenye,Kövestéri,20
+,3677,Irota,Ferencesek,81
+,3853,Abaújvár,Ősz,102
+,3378,Ládbesenyő,Csók István,40
+,3752,Sajóivánka,Tüzér,33
+,3381,Sajóecseg,Nagy Lajos király,39
+,3843,Borsodszentgyörgy,Csók István,7
+,3259,Sajónémeti,Batthyány,99
+,3911,Sajómercse,Harmónia,75
+,3250,Tiszakarád,Fűzfa,13
+,3267,Bózsva,Lukács Pelbárt,93
+,3458,Emőd,Knézich Károly,66
+,3416,Mezőkeresztes,Domb,3
+,3606,Becskeháza,Viola,52
+,3974,Ónod,Balassi Bálint,78
+,3325,Bekecs,Új,78
+,3458,Sajópetri,Csokonai,51
+,3001,Harsány,Tóth Árpád,80
+,3678,Tiszapalkonya,Madách,28
+,3672,Abaújszolnok,Kőműves,37
+,3438,Hernádvécse,Benczúr Gyula,76
+,3446,Megyaszó,Hatvany Lajos,41
+,3836,Taktaharkány,Damjanich,8
+,3558,Szin,Veres Péter,90
+,3749,Sárazsadány,Hárstelepi,78
+,3513,Hejőkürt,Attila,15
+,3176,Tiszatarján,Temető,109
+,3077,Kenézlő,Rózsa,6
+,3001,Teresztenye,Gódor Kálmán,58
+,3949,Felsőgagy,Wesselényi,43
+,3242,Kishuta,Kosztolányi Dezső,105
+,3256,Szerencs,Peresi,38
+,3776,Vilyvitány,Tabán,15
+,3069,Taktaharkány,Tüzér,39
+,3452,Sajólád,Dézsmaszéki,98
+,3986,Tornabarakony,Vak Bottyán,36
+,3604,Kissikátor,Lehel,57
+,3744,Forró,Zagyvaparti,92
+,3636,Sajókeresztúr,Gábor Áron,106
+,3051,Alacska,Delelő,39
+,3042,Alsótelekes,Bajza József,71
+,3151,Vámosújfalu,Pécsi Sándor ,88
+,3411,Onga,Gáspár András,48
+,3210,Muhi,Ősz,82
+,3624,Mád,Knézich Károly,67
+,3989,Hernádnémeti,Delelő,64
+,3695,Négyes,Gedeon Béla,67
+,3126,Hernádpetri,Viola,35
+,3235,Füzér,Fűzfa,107
+,3918,Kéked,Híd,34
+,3601,Mikóháza,Damjanich,101
+,3766,Jósvafő,Táncsics Mihály,78
+,3136,Bükkmogyorósd,Sóderos,13
+,3041,Rakaca,Zöld,103
+,3038,Sajópálfala,Gárdonyi Géza,42
+,3038,Bükkszentkereszt,Vereckei,46
+,3565,Hernádkércs,Thököly,21
+,3021,Abaújalpár,Klapka György,78
+,3354,Mezőzombor,Kurta,30
+,3964,Csokvaomány,Mártírok,85
+,3930,Nyésta,Madách,115
+,3492,Krasznokvajda,Csokonai,69
+,3983,Ragály,Kopja,108
+,3687,Gesztely,Bornemissza,99
+,3733,Felsődobsza,Kinizsi Pál,94
+,3736,Borsodnádasd,Ratkó József,3
+,3407,Aszaló,Karinthy Frigyes,118
+,3073,Lak,Benczúr Gyula,31
+,3879,Cserépváralja,Kistelek,21
+,3714,Legyesbénye,Újélet,109
+,3446,Járdánháza,Barcsay Jenő,88
+,3439,Gagyvendégi,Wesselényi,26
+,3090,Kány,Harang,41
+,3353,Rudabánya,Csatafi,56
+,3356,Sóstófalva,Fürdő,33
+,3013,Felsődobsza,Buzogány,55
+,3760,Sajóörös,Tizeshonvéd,59
+,3353,Bodrogkeresztúr,Esze Tamás,112
+,3660,Boldva,Delelő,90
+,3485,Edelény,Vasvári Pál,81
+,3543,Mogyoróska,Kertész,15
+,3775,Hejőkürt,Mohács,22
+,3567,Zubogy,Erdei kör,84
+,3808,Felsőregmec,Nagytelek,91
+,3075,Köröm,Kosztolányi Dezső,9
+,3201,Tállya,Kertész,94
+,3845,Kondó,Pécsi Sándor ,92
+,3461,Boldogkőváralja,Lőrinci,98
+,3756,Tornanádaska,Háromház,64
+,3140,Hét,Attila,119
+,3146,Hernádpetri,Temető,82
+,3309,Gagyvendégi,Temető,46
+,3115,Litka,Csajkovszkij,10
+,3397,Hercegkút,Iparos,88
+,3845,Fáj,Hársfa,110
+,3275,Hercegkút,Mártírok,69
+,3892,Bódvarákó,Vereckei,47
+,3449,Borsodszentgyörgy,Várkonyi Sándor,17
+,3202,Bükkzsérc,Vitéz,55
+,3613,Egerlövő,Kórház,12
+,3308,Borsodnádasd,Kertész,12
+,3348,Tiszalúc,Viola,103
+,3971,Alacska,Dézsmaszéki,81
+,3247,Monok,Czóbel Béla,65
+,3197,Szuhafő,Béla,13
+,3886,Berzék,Zöld,23
+,3402,Szemere,Eötvös,104
+,3508,Fulókércs,Hársfa,23
+,3409,Sajóbábony,Kard,17
+,3750,Gömörszőlős,Újvilág,53
+,3002,Farkaslyuk,Toldi,54
+,3938,Bodroghalom,Harang,96
+,3086,Rudolftelep,Báthory István,55
+,3594,Csernely,Horváth Mihály,16
+,3147,Kánó,Újvilág,18
+,3880,Becskeháza,Pécsi Sándor ,41
+,3650,Gömörszőlős,Papmalom,51
+,3900,Felsőberecki,Mártírok,83
+,3338,Ónod,Háromház,37
+,3258,Debréte,Sport,66
+,3616,Kesznyéten,Szapáry,96
+,3671,Sajóvelezd,Mikszáth,87
+,3042,Hollóháza,Klapka György,34
+,3465,Négyes,Erzsébet,88
+,3293,Vágáshuta,Táncsics Mihály,94
+,3863,Tornyosnémeti,Zrínyi Miklós,109
+,3050,Nagycsécs,Krúdy Gyula,83
+,3418,Tiszacsermely,Nagytelek major,20
+,3234,Gadna,Krúdy Gyula,14
+,3806,Felsőkelecsény,Huszár,31
+,3845,Uppony,Vörösmarty Mihály,75
+,3037,Jósvafő,Nyírfa,110
+,3876,Sajószöged,Balogh Ádám,4
+,3772,Sajólád,Huszár,26
+,3902,Tiszakarád,Dézsmaszéki,17
+,3920,Komlóska,Gáspár András,97
+,3529,Bőcs,Delelő,8
+,3046,Felsődobsza,Tizeshonvéd,86
+,3336,Erdőhorváti,Harang,26
+,3912,Erdőbénye,Grassalkovich,53
+,3524,Tard,Árnyas,57
+,3063,Alsóregmec,Bethlen Gábor,16
+,3777,Fancsal,Újélet,29
+,3730,Karcsa,Doktay Gyula,78
+,3863,Vatta,Vásártér,13
+,3933,Bodrogolaszi,Erzsébet,53
+,3948,Izsófalva,Klapka György,57
+,3246,Cserépváralja,Knézich Károly,61
+,3975,Sajópüspöki,Gáspár András,17
+,3690,Vatta,Honvéd,17
+,3350,Taktakenéz,Nagytelek,85
+,3717,Regéc,Batthyány,30
+,3836,Györgytarló,Görgey Artúr,46
+,3669,Serényfalva,Viola,56
+,3722,Monaj,Klapka György,102
+,3362,Dámóc,Martinovics,112
+,3031,Göncruszka,Dézsmaszék,17
+,3232,Felsőkelecsény,Peresi,60
+,3679,Kazincbarcika,Béla,38
+,3060,Sajókaza,Tompa Mihály,90
+,3563,Gönc,Csatafi,7
+,3710,Sajóörös,Gorkij,32
+,3000,Szegi,Kölcsey Ferenc,77
+,3328,Füzérkajata,Szőlőhegy,53
+,3630,Csokvaomány,Nyár,45
+,3690,Oszlár,Vas Gereben,11
+,3787,Bükkzsérc,Bányász,39
+,3040,Szakácsi,Iparos,96
+,3417,Bodroghalom,Vitéz,66
+,3951,Sajóvelezd,Hárstelepi,107
+,3077,Sajószentpéter,Gábor Áron,99
+,3330,Tiszakeszi,Mártírok,33
+,3290,Szin,Bajza József,5
+,3151,Encs,Széchenyi,51
+,3459,Borsodszirák,Knézich Károly,76
+,3279,Felsődobsza,Iparos,28
+,3619,Hejőbába,Kiss Ernő,6
+,3037,Semjén,Bálvány,23
+,3327,Kázsmárk,Bástya,23
+,3085,Ragály,Grassalkovich,108
+,3640,Hejőbába,Erdei kör,119
+,3529,Farkaslyuk,Táncsics Mihály,88
+,3168,Vajdácska,Czóbel Béla,69
+,3269,Borsodnádasd,Vasvári Pál,64
+,3183,Dövény,Kiss Ernő,13
+,3853,Bekecs,Móra Ferenc,112
+,3926,Tiszaújváros,Bokor,11
+,3931,Sóstófalva,Toldi,15
+,3775,Vatta,Nádasdy Tamás,110
+,3266,Lénárddaróc,Harmónia,91
+,3615,Viszló,Tízhold,28
+,3023,Sajókápolna,Eötvös,15
+,3092,Nyomár,Klapka György,115
+,3003,Göncruszka,Erdei-Köves,3
+,3075,Sajókeresztúr,Vas Gereben,113
+,3539,Uppony,Kard,92
+,3788,Arka,Grassalkovich,7
+,3175,Sáta,Tizeshonvéd,42
+,3825,Balajt,Gárdonyi Géza,99
+,3898,Bükkzsérc,Sóderos,69
+,3871,Sály,Villany,81
+,3634,Kazincbarcika,Tizeshonvéd,28
+,3554,Tiszakarád,Görbe,62
+,3749,Szegi,Nyár,96
+,3339,Alsóregmec,Turai,103
+,3744,Serényfalva,Táncsics Mihály,119
+,3153,Ragály,Tabán,92
+,3410,Tokaj,Gedeon Béla,62
+,3935,Királd,Dézsmaszék,47
+,3170,Bükkaranyos,Tizeshonvéd,22
+,3469,Prügy,Traktor,54
+,3719,Hercegkút,Vár,61
+,3631,Nyomár,Horváth Mihály,104
+,3319,Nagybarca,Kóczos,116
+,3145,Debréte,Hegyalja,38
+,3759,Tiszaladány,Bercsényi,105
+,3268,Négyes,Vas,30
+,3456,Kondó,Hatvany Lajos,80
+,3870,Tiszakarád,Barcsay Jenő,107
+,3503,Tokaj,Tabán,119
+,3489,Mályinka,Köves,66
+,3581,Damak,Vitéz,92
+,3989,Pácin,Kóczos,54
+,3876,Hét,Hatvanas,42
+,3062,Nagykinizs,Fuvaros,27
+,3779,Szuhogy,Tabán,32
+,3963,Bodroghalom,Traktor,104
+,3013,Györgytarló,Kőműves,69
+,3801,Gömörszőlős,Mátyás király,4
+,3645,Abaújkér,Táltos,51
+,3215,Abaújlak,Tó,88
+,3169,Hidasnémeti,Ifjúság,30
+,3936,Makkoshotyka,Kóczos,109
+,3154,Bódvarákó,Bástya,21
+,3939,Sajólád,Botond,94
+,3731,Sajókeresztúr,Czuczor Gergely,39
+,3699,Bükkzsérc,Fenyőfa,93
+,3144,Vatta,Dolgozók,39
+,3656,Tiszaújváros,Táncsics Mihály,27
+,3163,Felsőberecki,Jávorka,80
+,3425,Erdőhorváti,Lőrinci,87
+,3242,Szemere,Madách,16
+,3721,Bőcs,Huszár,35
+,3331,Pálháza,Legány Ödön,36
+,3523,Rakacaszend,Erdei kör,104
+,3620,Kazincbarcika,Lukács Pelbárt,33
+,3117,Tiszavalk,Liszt Ferenc,98
+,3498,Szuhogy,Repce,66
+,3583,Újcsanálos,Mátyás király,32
+,3041,Pálháza,Kurta,75
+,3996,Csernely,Gesztenye,9
+,3059,Hernádpetri,Pázsit,112
+,3030,Rudabánya,Kosztolányi Dezső,2
+,3048,Varbó,Erdei-Köves,48
+,3135,Kazincbarcika,Vörösmarty Mihály,70
+,3016,Hidvégardó,Repce,56
+,3370,Nyomár,Batthyány,41
+,3404,Göncruszka,Papmalom,87
+,3412,Alsódobsza,Csokonai,17
+,3284,Abaújalpár,Tavasz,20
+,3506,Lácacséke,Papp István,82
+,3865,Csenyéte,Árpád,89
+,3334,Jósvafő,Iskola,6
+,3016,Füzér,Buzogány,63
+,3679,Vajdácska,Rét,1
+,3025,Berzék,Dobó István,90
+,3508,Parasznya,Buzogány,19
+,3203,Halmaj,Batthyány,31
+,3105,Rakaca,Botond,88
+,3139,Gadna,Zrínyi,67
+,3785,Mezőnyárád,Martinovics,79
+,3849,Kázsmárk,Kandó Kálmán,58
+,3525,Hidasnémeti,Görög,1
+,3433,Kiskinizs,Hatvany Lajos,93
+,3803,Ládbesenyő,Zagyvaparti,98
+,3972,Megyaszó,Pécsi Sándor ,117
+,3585,Taktakenéz,Géza fejedelem,5
+,3384,Szendrő,Papmalom,85
+,3079,Mád,Újélet,5
+,3167,Vatta,Grassalkovich,61
+,3388,Sajószentpéter,Zöldfa,1
+,3191,Ároktő,Tüzér,105
+,3155,Dédestapolcsány,Nyár,105
+,3486,Köröm,Táltos,115
+,3374,Parasznya,Fuvaros,109
+,3881,Kéked,Váci Mihály,43
+,3864,Ládbesenyő,Mohács,95
+,3614,Hernádszentandrás,Balassi Bálint,10
+,3744,Komjáti,Traktor,18
+,3649,Bükkaranyos,Czuczor Gergely,106
+,3087,Tolcsva,Teleki,64
+,3022,Perecse,Görbe,72
+,3457,Sajóvelezd,Szőlőhegy,89
+,3097,Sajómercse,Rét,74
+,3382,Mezőcsát,Kisfaludy,66
+,3285,Teresztenye,Hajnal,65
+,3632,Edelény,Vas Gereben,78
+,3431,Regéc,Bajcsy-Zsilinszky Endre,39
+,3377,Krasznokvajda,Lehel,102
+,3223,Imola,Széchenyi,81
+,3837,Nyékládháza,Gorkij,81
+,3639,Imola,Ferencesek,15
+,3119,Zemplénagárd,Hárstelepi,44
+,3170,Kissikátor,Híd,32
+,3980,Tiszaladány,Pécsi Sándor ,63
+,3872,Meszes,Major,18
+,3259,Szászfa,Buzogány,59
+,3322,Alsótelekes,Vas Gereben,95
+,3970,Fulókércs,Babits Mihály,16
+,3887,Sajóivánka,Apród,19
+,3155,Hejőkürt,Dézsmaszéki,118
+,3711,Olaszliszka,Bornemissza,24
+,3050,Nyésta,Kurta,31
+,3970,Telkibánya,Május,23
+,3621,Balajt,Majtényi,85
+,3042,Filkeháza,Lehel,43
+,3436,Sóstófalva,Béke,51
+,3573,Sajópetri,Hatvany Lajos,76
+,3366,Mezőkövesd,Mohács,21
+,3523,Halmaj,Május,25
+,3885,Hollóháza,Hajdú,62
+,3619,Berente,Tóth Árpád,76
+,3184,Prügy,Zagyvaparti,79
+,3181,Hejőbába,Rét,50
+,3777,Csokvaomány,Várkonyi Sándor,69
+,3489,Sajókeresztúr,Bányász,74
+,3118,Kupa,Huszár,35
+,3154,Kissikátor,Hajnal,113
+,3776,Sajópálfala,Mohács,95
+,3243,Kelemér,Honvéd,100
+,3066,Bükkaranyos,Kőműves,106
+,3879,Zemplénagárd,Bajza József,33
+,3732,Borsodnádasd,Turul,49
+,3581,Tornaszentjakab,Tóth Árpád,110
+,3055,Csobaj,Szabadság,46
+,3474,Cigánd,Kastélykert,53
+,3797,Tiszabábolna,Gábor Áron,9
+,3710,Mályi,Bányász,21
+,3230,Izsófalva,Tó,119
+,3227,Tolcsva,Irinyi János,38
+,3349,Királd,Knézich Károly,50
+,3268,Gadna,Kastélykert,67
+,3369,Tomor,Szabadság,61
+,3582,Nagycsécs,Mátyás király,66
+,3220,Nyíri,Pázsit,54
+,3101,Boldogkőváralja,Jókai Mór,107
+,3696,Taktakenéz,Kiss Ernő,108
+,3211,Rudolftelep,Viola,14
+,3201,Kistokaj,Váci Mihály,56
+,3066,Bódvalenke,Nagy Sándor,89
+,3574,Tiszatardos,Apród,81
+,3784,Füzérradvány,Gódor Kálmán,68
+,3790,Aszaló,Czuczor Gergely,84
+,3579,Zalkod,Rákóczi  Ferenc,25
+,3063,Szikszó,Dobó István,85
+,3942,Hejce,Dézsmaszéki,72
+,3180,Mezőzombor,Balogh Ádám,2
+,3663,Kisgyőr,Hatvany Irén,61
+,3118,Bogács,Erdei kör,29
+,3217,Zemplénagárd,Ifjúság,56
+,3480,Taktaszada,Villany,50
+,3830,Bózsva,Kurta,14
+,3271,Boldogkőváralja,Balassi Bálint,67
+,3452,Pálháza,Hegytető,101
+,3547,Hernádszurdok,Dobó István,99
+,3001,Csobád,Vásártér,33
+,3704,Gesztely,Árpád,41
+,3195,Kondó,Kárpát,107
+,3641,Lak,Lőrinci,44
+,3872,Sajókaza,Újélet,99
+,3968,Detek,Barackos,101
+,3452,Bánréve,Szent Mihály,97
+,3069,Bükkábrány,Gábor Áron,24
+,3864,Harsány,Wesselényi,50
+,3899,Rásonysápberencs,Tízhold,41
+,3343,Tornabarakony,Mátyás király,63
+,3975,Vilyvitány,Tó,82
+,3327,Tiszakarád,Bercsényi,81
+,3686,Meszes,Szepes Béla,62
+,3402,Tibolddaróc,Domb,29
+,3518,Rásonysápberencs,Görbe,32
+,3632,Nyomár,Dolgozók,88
+,3678,Szendrő,Delelő,4
+,3436,Keresztéte,Pintér István,72
+,3395,Hercegkút,Czóbel Béla,87
+,3007,Regéc,Apród,105
+,3814,Sajósenye,Mohács,16
+,3878,Vámosújfalu,Váci Mihály,91
+,3243,Tornabarakony,Hunyadi Mátyás,91
+,3837,Perecse,Hajdú,41
+,3020,Járdánháza,Damjanich,118
+,3860,Farkaslyuk,Nagy Sándor,15
+,3317,Felsőberecki,Legány Ödön,59
+,3738,Felsőberecki,Delelő,11
+,3473,Teresztenye,Erdei kör,55
+,3244,Borsodszirák,Papmalom,103
+,3722,Vizsoly,Deák Ferenc,67
+,3642,Bódvalenke,Buzogány,26
+,3761,Aggtelek,Csatafi,33
+,3943,Felsővadász,Kosztolányi Dezső,89
+,3122,Ormosbánya,Deák Ferenc,14
+,3228,Damak,Székely,69
+,3296,Abaújkér,Bethlen Gábor,37
+,3054,Muhi,Strázsahegyi,24
+,3822,Sajókeresztúr,Hatvanas,55
+,3847,Perecse,Zagyvaparti,50
+,3441,Vadna,Szapáry,111
+,3651,Megyaszó,Veres Péter,101
+,3404,Borsodgeszt,Móricz Zsigmond,51
+,3445,Sajókápolna,Háromház,90
+,3692,Csobaj,Berzsenyi Dániel,57
+,3578,Komjáti,Ősz,108
+,3702,Sajóörös,Hajdú,66
+,3441,Arka,Strázsahegyi,67
+,3425,Borsodnádasd,Tompa Mihály,90
+,3573,Aszaló,Kertész,28
+,3877,Bőcs,Bornemissza,76
+,3561,Kissikátor,Bástya,62
+,3783,Bodrogkisfalud,Akácfa,82
+,3266,Legyesbénye,Wesselényi,61
+,3911,Felsőkelecsény,Balogh Ádám,84
+,3551,Büttös,Turul,17
+,3676,Hernádszentandrás,Tarjáni,83
+,3529,Rakaca,Attila,70
+,3578,Boldogkőváralja,Karinthy Frigyes,48
+,3834,Semjén,Czóbel Béla,34
+,3859,Pere,Zöld,106
+,3056,Sajólád,Tízhold,81
+,3118,Füzérkajata,Keskeny,62
+,3382,Hercegkút,Vak Bottyán,5
+,3346,Sajóvelezd,Delelő,63
+,3059,Révleányvár,Karinthy Frigyes,4
+,3291,Révleányvár,Lukács Pelbárt,114
+,3468,Bódvarákó,Árnyas,40
+,3006,Bánhorváti,Szent Mihály,82
+,3016,Girincs,Gábor Áron,31
+,3062,Kány,Tóth Árpád,118
+,3350,Arló,Damjanich,47
+,3339,Mezőcsát,Berzsenyi Dániel,84
+,3272,Lénárddaróc,Vécsey Károly,104
+,3291,Mezőcsát,Zöldfa,61
+,3889,Alsóberecki,Kandó Kálmán,101
+,3200,Perecse,Árnyas,107
+,3523,Alsóberecki,Tarjáni,68
+,3870,Gagybátor,Zöld,51
+,3167,Sajószentpéter,Erzsébet,77
+,3883,Golop,Belső Ifjúság,16
+,3601,Abaújlak,Köztársaság,58
+,3040,Tomor,Béke,106
+,3625,Ózd,Knézich Károly,94
+,3091,Szemere,Görög,94
+,3886,Göncruszka,Turai,72
+,3585,Szentistvánbaksa,Vak Bottyán,12
+,3221,Göncruszka,Vitéz,39
+,3757,Szikszó,Fecske,72
+,3296,Gadna,Bartók Béla,64
+,3276,Ónod,Radnóti Miklós,53
+,3492,Bükkaranyos,Tó,35
+,3201,Füzérkomlós,Barcsay Jenő,43
+,3713,Sajóvelezd,Zöldfa,89
+,3713,Szentistván,Ring Kálmán,11
+,3111,Alsótelekes,Ősz,97
+,3259,Bekecs,Diófa,106
+,3748,Muhi,Kisfaludy,113
+,3824,Selyeb,Vas,94
+,3360,Gibárt,Hősmagyar,1
+,3013,Nyésta,Ring Kálmán,60
+,3959,Kéked,Bástya,92
+,3161,Szalaszend,Radnóti Miklós,52
+,3135,Pácin,Hajós Alfréd,8
+,3237,Kéked,Hegyalja,96
+,3254,Tiszatarján,Pécsi Sándor ,96
+,3947,Sajópüspöki,Peresi,45
+,3236,Hidvégardó,Tarjáni,45
+,3700,Serényfalva,Rét,67
+,3747,Alsószuha,Harmónia,50
+,3077,Györgytarló,Mátyás király,95
+,3879,Cserépváralja,Rózsa,81
+,3384,Domaháza,Szőlőhegy,86
+,3138,Csobaj,Zöld,38
+,3676,Füzérradvány,Táncsics Mihály,85
+,3984,Királd,Cserje,114
+,3741,Olaszliszka,Kobzos,41
+,3218,Kesznyéten,Rákóczi  Ferenc,35
+,3017,Hernádkak,Hajós Alfréd,97
+,3186,Felsőregmec,Báthory István,58
+,3199,Regéc,Görbe,59
+,3795,Damak,Kiss Ernő,23
+,3435,Bodrogkisfalud,Kóczos,35
+,3436,Nekézseny,Kertész,84
+,3465,Kupa,Gorkij,45
+,3296,Bodrogkisfalud,Strázsahegyi,31
+,3874,Nagyhuta,Turul,72
+,3350,Novajidrány,Újvilág,62
+,3285,Léh,Vereckei,40
+,3905,Györgytarló,Balassi Bálint,31
+,3356,Sály,Apród,62
+,3177,Tiszacsermely,Fürdő,62
+,3424,Bánhorváti,Munkácsy Mihály,41
+,3236,Szalonna,Hajdú,116
+,3879,Vajdácska,Esze Tamás,84
+,3649,Regéc,Szalkai,109
+,3166,Alsóberecki,Liszt Ferenc,73
+,3630,Bódvalenke,Klapka György,47
+,3114,Abaújkér,Újélet,64
+,3562,Sajókápolna,Hatvanas,65
+,3664,Hollóháza,Vár,94
+,3074,Felsőkelecsény,Tízhold,34
+,3246,Hejőszalonta,Zagyvaparti,39
+,3735,Novajidrány,Nádasdy Tamás,89
+,3944,Semjén,Diófa,36
+,3123,Füzér,Radnóti Miklós,38
+,3832,Sárazsadány,Tabán,16
+,3788,Tiszavalk,Tizeshonvéd,71
+,3763,Galvács,Vásártér,71
+,3454,Csincse,Hajós Alfréd,83
+,3095,Felsődobsza,Vereckei,4
+,3766,Kazincbarcika,Eötvös,19
+,3457,Alsógagy,Vas,83
+,3364,Hejce,Madách,103
+,3885,Mezőkövesd,Tízhold,9
+,3941,Felsőgagy,Árnyas,104
+,3250,Cserépváralja,Görbe,5
+,3450,Abaújszolnok,Apród,35
+,3395,Vadna,Széchenyi,30
+,3666,Csenyéte,Hatvany Irén,13
+,3105,Borsodszirák,Madách,91
+,3323,Vágáshuta,Lehel,49
+,3677,Révleányvár,Mohács,71
+,3520,Füzér,Karinthy Frigyes,103
+,3118,Bodroghalom,Benczúr Gyula,55
+,3625,Felsőtelekes,Benczúr Gyula,101
+,3181,Tiszavalk,Tompa Mihály,107
+,3873,Emőd,Eötvös,36
+,3983,Alsótelekes,Kertész,21
+,3751,Izsófalva,Szent Mihály,42
+,3543,Felsőregmec,Hajós Alfréd,109
+,3836,Hangony,Sport,62
+,3829,Fulókércs,Majtényi,38
+,3179,Kisgyőr,Pintér István,98
+,3247,Rakaca,Vásártér,30
+,3850,Felsővadász,Domb,92
+,3275,Pányok,Gárdonyi Géza,51
+,3426,Gesztely,Mártírok,13
+,3217,Pálháza,Balassi Bálint,115
+,3068,Alsóvadász,Hajnal,73
+,3189,Bükkaranyos,Pécsi Sándor ,82
+,3811,Kondó,Székely,67
+,3313,Borsodgeszt,Pintér István,58
+,3555,Büttös,Hárstelepi,25
+,3536,Tiszalúc,Tóth Árpád,94
+,3315,Bózsva,Kórház,109
+,3445,Rakaca,Bethlen Gábor,46
+,3784,Méra,Tavasz,5
+,3076,Csobád,Erdei-Köves,55
+,3662,Mályi,Ady Endre,47
+,3126,Hangony,Dolgozók,52
+,3441,Szinpetri,Hajós Alfréd,104
+,3960,Varbóc,Kert,84
+,3173,Perkupa,Fűzfa,119
+,3183,Hollóháza,Kopja,41
+,3067,Felsővadász,Batthyány,112
+,3123,Hernádkércs,Zagyvaparti,29
+,3452,Tiszaladány,Forgács Simon,3
+,3343,Hangony,Görgey Artúr,101
+,3045,Hejce,Tompa Mihály,2
+,3667,Csincse,Mikszáth,117
+,3684,Hernádcéce,Hajnal,47
+,3530,Révleányvár,Bethlen Gábor,117
+,3736,Rudolftelep,Újélet,95
+,3636,Sajópálfala,Rózsa,41
+,3983,Sajókeresztúr,Vasvári Pál,9
+,3662,Zádorfalva,Hegytető,48
+,3004,Hernádvécse,Villany,51
+,3842,Komjáti,Irinyi János,21
+,3760,Abaújalpár,Hegyalja,103
+,3393,Izsófalva,Kertész,1
+,3549,Rakacaszend,Kandó Kálmán,59
+,3959,Dámóc,Pintér István,106
+,3053,Sajólászlófalva,Dobó István,23
+,3203,Szin,Hunyadi Mátyás,116
+,3019,Kiscsécs,Krúdy Gyula,91
+,3735,Pányok,Mártírok,58
+,3847,Hejőkürt,Bajza József,114
+,3709,Dámóc,Hárstelepi,76
+,3527,Sárospatak,Grassalkovich,13
+,3905,Hollóháza,Rét,3
+,3122,Dámóc,Szent Mihály,50
+,3523,Taktaharkány,Ring Kálmán,48
+,3047,Halmaj,Esze Tamás,41
+,3352,Tiszakeszi,Hajnal,57
+,3828,Felsőberecki,Rózsa,71
+,3601,Damak,Balassi Bálint,45
+,3382,Kány,Batthyány,105
+,3721,Tiszacsermely,Vitális Mór,5
+,3906,Felsőberecki,Majtényi,104
+,3453,Sajóbábony,Árnyas,11
+,3548,Mikóháza,Szapáry,115
+,3807,Szakácsi,Barackos,98
+,3897,Boldogkőújfalu,Vécsey Károly,61
+,3126,Regéc,Karinthy Frigyes,23
+,3230,Nekézseny,Botond,103
+,3006,Nyomár,Iskola,17
+,3301,Felsőkelecsény,Madách,30
+,3644,Farkaslyuk,Hárstelepi,51
+,3277,Zubogy,Nyírfa,33
+,3379,Vatta,Vak Bottyán,9
+,3167,Bódvarákó,Vásártér,61
+,3667,Teresztenye,Czuczor Gergely,51
+,3040,Zemplénagárd,Mártírok,19
+,3995,Tornaszentandrás,Fuvaros,113
+,3302,Kiskinizs,Kóczos,61
+,3207,Királd,Hatvany Irén,65
+,3633,Arnót,Bajcsy-Zsilinszky Endre,9
+,3695,Pamlény,Mészáros Lázár,69
+,3889,Sajósenye,Petőfi Sándor,18
+,3056,Kánó,Domb,2
+,3001,Szirmabesenyő,Ősz,101
+,3467,Makkoshotyka,Nagy Lajos király,113
+,3541,Hernádszentandrás,Rét,36
+,3864,Sály,Turai,67
+,3272,Szászfa,Madách,15
+,3885,Györgytarló,Hajós Alfréd,65
+,3209,Csobaj,Mészáros Lázár,24
+,3110,Olaszliszka,Gorkij,105
+,3533,Göncruszka,Rózsa,37
+,3109,Hejőpapi,Mozdony,31
+,3006,Hernádnémeti,Barackos,10
+,3008,Golop,Ring Kálmán,113
+,3662,Baktakék,Lehel,103
+,3033,Boldogkőújfalu,Bocskai István,40
+,3569,Radostyán,Karinthy Frigyes,72
+,3467,Sajóbábony,Czuczor Gergely,27
+,3787,Tiszakarád,Köves,112
+,3652,Taktakenéz,Kistelek,67
+,3698,Alsózsolca,Bajcsy-Zsilinszky Endre,80
+,3738,Putnok,Újvilág,22
+,3160,Emőd,Szalkai,95
+,3927,Tornanádaska,István király,11
+,3158,Abaújlak,Iskola,110
+,3874,Nyíri,Csokonai,70
+,3464,Bódvaszilas,Legelő,8
+,3180,Borsodivánka,Horváth Mihály,66
+,3209,Rátka,Újvilág,96
+,3776,Edelény,Ratkó József,115
+,3775,Felsődobsza,Kurta,63
+,3346,Nagykinizs,Buzogány,73
+,3693,Újcsanálos,Strázsahegyi,103
+,3412,Nemesbikk,Dolgozók,102
+,3557,Vágáshuta,Zrínyi Miklós,54
+,3575,Ónod,Bornemissza,50
+,3179,Rátka,Báthory István,96
+,3806,Szuhogy,Turul,69
+,3992,Fáj,Bartók Béla,10
+,3758,Cserépváralja,Tarjáni,61
+,3579,Rudolftelep,Mészáros Lázár,75
+,3070,Bodroghalom,Kövestéri,104
+,3522,Felsőregmec,Köztársaság,60
+,3916,Mezőkövesd,Balogh Ádám,111
+,3836,Sajómercse,Hárstelepi,81
+,3893,Kesznyéten,Szepes Béla,69
+,3099,Jákfalva,Május,66
+,3884,Nyékládháza,Vécsey Károly,15
+,3730,Oszlár,Hajdú,15
+,3732,Ricse,Esze Tamás,46
+,3152,Berente,Köztársaság,107
+,3560,Nagycsécs,Bokor,101
+,3146,Hernádvécse,Legány Ödön,20
+,3706,Abaújszolnok,Gábor Áron,9
+,3722,Izsófalva,Hársfa,56
+,3876,Tiszaladány,Lőrinci,63
+,3621,Alsóberecki,Diófa,93
+,3798,Sajókeresztúr,Árpád,38
+,3035,Hegymeg,Ady Endre,70
+,3392,Muhi,Grassalkovich,33
+,3126,Kiskinizs,Bálvány,6
+,3817,Korlát,Vitális Mór,16
+,3402,Királd,Diófa,36
+,3158,Sóstófalva,Móricz Zsigmond,95
+,3060,Detek,Kisfaludy,109
+,3912,Meszes,Hatvanas,31
+,3141,Erdőhorváti,Móra Ferenc,114
+,3319,Nagycsécs,Madách,94
+,3177,Csobád,Kóczos,7
+,3811,Felsővadász,Dézsmaszéki,1
+,3579,Felsőnyárád,Tabán,11
+,3488,Ózd,Harmónia,70
+,3200,Gagyvendégi,Tizeshonvéd,84
+,3754,Megyaszó,Kinizsi Pál,118
+,3798,Viss,Móra Ferenc,59
+,3355,Sáta,Dózsa György,43
+,3941,Fancsal,Béla,29
+,3968,Nagyrozvágy,Kinizsi Pál,51
+,3816,Abod,Temető,116
+,3989,Hernádcéce,Hét vezér,108
+,3501,Abod,Hajdú,72
+,3305,Gömörszőlős,Horváth Mihály,60
+,3174,Golop,Teleki,118
+,3202,Szegi,Horváth Mihály,116
+,3351,Tornyosnémeti,Vécsey Károly,74
+,3940,Kishuta,Dézsmaszéki,30
+,3926,Alacska,Grassalkovich,119
+,3712,Sajószentpéter,Erzsébet,42
+,3415,Abaújszántó,Mátyás király,113
+,3406,Tardona,Csajkovszkij,58
+,3679,Jákfalva,Nyár,23
+,3106,Semjén,Tarjáni,6
+,3498,Halmaj,Móra Ferenc,65
+,3326,Kiscsécs,Kiss Ernő,45
+,3358,Legyesbénye,Kodály Zoltán,3
+,3487,Alacska,Iskola,6
+,3392,Kelemér,Berzsenyi Dániel,16
+,3090,Füzérkomlós,Nagytelek,32
+,3582,Ároktő,Gódor Kálmán,69
+,3649,Abaújalpár,Rét,117
+,3478,Arló,Vas,21
+,3505,Pányok,Strázsahegyi,39
+,3433,Felsőnyárád,Cserje,74
+,3644,Debréte,Új,81
+,3878,Filkeháza,Dézsmaszéki,102
+,3389,Forró,Zöld,104
+,3086,Bódvaszilas,Balassi Bálint,84
+,3117,Pusztafalu,Tizeshonvéd,88
+,3633,Taktabáj,Horváth Mihály,17
+,3093,Keresztéte,Újélet,80
+,3660,Komjáti,Fenyőfa,101
+,3378,Felsőnyárád,Kazinczy  Ferenc,110
+,3706,Léh,Veres Péter,108
+,3770,Szakácsi,Határ,30
+,3616,Hernádszurdok,Rózsa,28
+,3545,Vilmány,Hunyadi Mátyás,13
+,3369,Ziliz,Új,85
+,3926,Kiskinizs,Köztársaság,106
+,3533,Pusztafalu,Kárpát,88
+,3844,Méra,Bányász,27
+,3711,Hegymeg,Szepes Béla,97
+,3154,Gagybátor,Czuczor Gergely,21
+,3629,Hidvégardó,Rákóczi  Ferenc,48
+,3496,Boldva,Bibó István,16
+,3857,Prügy,Fűzfa,45
+,3199,Gadna,Repce,72
+,3715,Boldva,Karinthy Frigyes,72
+,3599,Pányok,Bem József,106
+,3122,Szögliget,Peresi,63
+,3037,Sáta,Wesselényi,1
+,3688,Bózsva,Turai,94
+,3578,Sárospatak,Csók István,64
+,3113,Hejőpapi,Veres Péter,49
+,3892,Szirmabesenyő,Thurzó,66
+,3237,Borsodnádasd,Dózsa György,35
+,3720,Dámóc,Görgey Artúr,100
+,3597,Tiszabábolna,Zrínyi Miklós,53
+,3255,Tornyosnémeti,Papmalom,104
+,3049,Hercegkút,Vitéz,81
+,3687,Korlát,Peresi,37
+,3580,Csobád,Vas,13
+,3535,Csobád,Erzsébet,98
+,3804,Sajóivánka,Major,92
+,3047,Hernádkércs,Kinizsi Pál,100
+,3471,Dubicsány,Munkácsy Mihály,24
+,3027,Vizsoly,Zagyvaparti,99
+,3125,Becskeháza,Mohács,84
+,3453,Hejőszalonta,Bajza József,103
+,3434,Tiszaladány,Kiss Ernő,84
+,3537,Hercegkút,Turul,57
+,3844,Szuhafő,Géza fejedelem,108
+,3191,Szakáld,Gorkij,96
+,3282,Karcsa,Wesselényi,11
+,3462,Hangács,Arany János,109
+,3663,Kissikátor,Pázsit,87
+,3050,Múcsony,Kóczos,67
+,3601,Bánhorváti,Szent Mihály,58
+,3663,Újcsanálos,Táltos,6
+,3512,Hejőkeresztúr,Hatvanas,103
+,3405,Szakáld,Doktay Gyula,97
+,3399,Vámosújfalu,Fuvaros,99
+,3212,Füzérkomlós,Lukács Pelbárt,44
+,3719,Pácin,Tüzér,93
+,3322,Tiszaladány,Delelő,83
+,3131,Borsodszentgyörgy,Szabadság,53
+,3807,Mályinka,Tizeshonvéd,105
+,3990,Sajóivánka,Gáspár András,9
+,3539,Kupa,Tompa Mihály,108
+,3259,Kissikátor,Újvilág,62
+,3621,Abaújlak,Dembinszky,114
+,3673,Tiszapalkonya,Csokonai,27
+,3839,Tard,Vereckei,48
+,3603,Tornabarakony,Határ,92
+,3571,Zalkod,Kistelek,117
+,3990,Csokvaomány,Utász,81
+,3901,Viss,Görbe,66
+,3075,Hidvégardó,Gorkij,115
+,3308,Szögliget,Albert Schweitzer,15
+,3749,Sajómercse,Domb,59
+,3556,Korlát,Barcsay Jenő,13
+,3800,Alsóberecki,Traktor,55
+,3987,Nagybarca,Delelő,36
+,3890,Mikóháza,Hársfa,89
+,3310,Garadna,Majtényi,72
+,3917,Sajópetri,Iparos,79
+,3222,Cigánd,Görög,65
+,3022,Bükkmogyorósd,Vörösmarty Mihály,119
+,3376,Szomolya,Ősz,7
+,3954,Csobád,Újélet,46
+,3912,Hernádkércs,Kárpát,34
+,3844,Tornaszentjakab,Gárdonyi Géza,109
+,3660,Sajószöged,Vereckei,113
+,3468,Irota,Béla,68
+,3369,Hernádvécse,Kiss Ernő,51
+,3014,Hejőbába,Dobó István,5
+,3094,Sajóivánka,Zöld,35
+,3541,Hercegkút,Bibó István,72
+,3208,Oszlár,Csatafi,76
+,3641,Arló,Kazinczy  Ferenc,114
+,3389,Kondó,Legány Ödön,105
+,3761,Beret,Jávorka,39
+,3311,Hollóháza,Kopja,43
+,3918,Ricse,Váci Mihály,108
+,3538,Sajógalgóc,Baross Gábor,37
+,3589,Fulókércs,Kandó Kálmán,98
+,3730,Szakácsi,Bibó István,8
+,3313,Rátka,Papmalom,71
+,3436,Filkeháza,Dolgozók,80
+,3197,Varbó,Traktor,95
+,3487,Gömörszőlős,Czuczor Gergely,87
+,3699,Abaújalpár,Wesselényi,19
+,3020,Alsózsolca,Kőműves,110
+,3638,Alsógagy,Harang,14
+,3681,Rakaca,Barcsay Jenő,38
+,3330,Nagycsécs,Bercsényi,109
+,3136,Detek,Thököly,11
+,3047,Mályi,Bem József,22
+,3136,Bükkmogyorósd,Balassi Bálint,87
+,3130,Vilmány,Kodály Zoltán,71
+,3634,Sóstófalva,Dobó István,55
+,3511,Domaháza,Mohács,53
+,3341,Révleányvár,Háromház,69
+,3310,Bózsva,Radnóti Miklós,10
+,3073,Tomor,Damjanich,95
+,3502,Tiszacsermely,Nagy Sándor,72
+,3738,Vatta,Akácfa,99
+,3096,Füzérkomlós,Majtényi,46
+,3960,Hernádbűd,Mészáros Lázár,108
+,3283,Kesznyéten,Bányász,61
+,3622,Gadna,Népkert,113
+,3086,Karos,Vitális Mór,61
+,3593,Múcsony,Váci Mihály,106
+,3391,Novajidrány,Gábor Áron,87
+,3086,Aszaló,Hősmagyar,21
+,3520,Erdőbénye,Hegyalja,41
+,3215,Kéked,Belső Ifjúság,79
+,3794,Sajóecseg,Balogh Ádám,115
+,3078,Rakaca,Bálvány,1
+,3445,Szuhakálló,Vak Bottyán,42
+,3912,Sárospatak,Barcsay Jenő,19
+,3634,Galvács,Hatvany Lajos,61
+,3311,Sajóecseg,Kistelek,106
+,3903,Révleányvár,Lehel,98
+,3193,Rakacaszend,Kinizsi Pál,26
+,3937,Damak,Fenyőfa,82
+,3550,Sajógalgóc,Kinizsi Pál,66
+,3747,Martonyi,Háromház,47
+,3512,Mezőkeresztes,Székely,97
+,3764,Nyíri,Czóbel Béla,9
+,3603,Varbóc,Bokor,61
+,3772,Abaújalpár,Mikszáth,80
+,3131,Alacska,Thurzó,52
+,3803,Kisrozvágy,Honvéd,71
+,3733,Bekecs,Babits Mihály,7
+,3603,Bódvalenke,Ősz,1
+,3146,Egerlövő,Tízhold,37
+,3726,Bánréve,Kövestéri,100
+,3572,Nagycsécs,Kazinczy  Ferenc,80
+,3761,Pácin,Czuczor Gergely,32
+,3576,Boldogkőváralja,Doktay Gyula,66
+,3360,Halmaj,Fürdő,29
+,3078,Borsodszirák,Thurzó,30
+,3878,Olaszliszka,Vas Gereben,86
+,3301,Köröm,Villany,49
+,3127,Ricse,Vitéz,93
+,3832,Felsődobsza,Tavasz,99
+,3354,Felsővadász,Babits Mihály,90
+,3278,Szakácsi,Ősz,60
+,3886,Forró,Jávorka,64
+,3840,Vágáshuta,Szabadság,97
+,3067,Gibárt,Kőműves,82
+,3694,Rakaca,Táltos,88
+,3415,Borsodbóta,Újélet,113
+,3942,Aggtelek,Domb,119
+,3724,Gibárt,Lőrinci,61
+,3925,Girincs,Újélet,13
+,3163,Szentistván,Kodály Zoltán,37
+,3841,Füzérkomlós,Akácfa,51
+,3859,Mezőnagymihály,Nyár,80
+,3677,Ziliz,Vécsey Károly,73
+,3717,Felsőnyárád,Hősmagyar,119
+,3309,Méra,Legány Ödön,17
+,3921,Mikóháza,Eötvös,47
+,3405,Girincs,Népkert,67
+,3575,Bódvalenke,Tabán,99
+,3680,Fancsal,Traktor,76
+,3515,Tokaj,Ferencesek,102
+,3383,Hejce,Árpád,28
+,3209,Sáta,Kárpát,87
+,3100,Szikszó,Gáspár András,71
+,3214,Dédestapolcsány,Gedeon Béla,47
+,3947,Tornaszentandrás,Grassalkovich,102
+,3042,Taktabáj,Munka,35
+,3594,Meszes,Jókai Mór,43
+,3278,Felsővadász,Kölcsey Ferenc,57
+,3282,Vilyvitány,Gedeon Béla,98
+,3159,Tiszalúc,Harang,87
+,3328,Abaújszolnok,Híd,117
+,3791,Szalonna,Gedeon Béla,119
+,3831,Sály,Deák Ferenc,49
+,3921,Forró,Domb,42
+,3195,Mikóháza,Huszár,54
+,3351,Bódvalenke,Benczúr Gyula,100
+,3649,Kissikátor,Borház,98
+,3261,Kisrozvágy,Hajós Alfréd,45
+,3803,Bőcs,Lehel,59
+,3441,Sajókápolna,Papp István,6
+,3586,Fulókércs,Vécsey Károly,19
+,3734,Nagyhuta,Delelő,13
+,3403,Nyékládháza,Krúdy Gyula,54
+,3708,Edelény,Báthory István,66
+,3610,Nyékládháza,Görgey Artúr,116
+,3438,Szuhakálló,Kölcsey Ferenc,66
+,3809,Kesznyéten,Zöldfa,26
+,3585,Regéc,Kurta,14
+,3776,Nemesbikk,Kandó Kálmán,79
+,3882,Hidvégardó,Határ,50
+,3198,Borsodgeszt,Akácfa,86
+,3451,Egerlövő,Utász,16
+,3172,Füzérradvány,Tízhold,84
+,3042,Borsodszirák,Görög,64
+,3695,Sajómercse,Strázsahegyi,10
+,3794,Szirmabesenyő,Zrínyi,40
+,3512,Felsővadász,Vár,60
+,3352,Múcsony,Erdei kör,117
+,3844,Dámóc,Zöldfa,47
+,3379,Pácin,Várkonyi Sándor,1
+,3546,Hidvégardó,Dézsmaszéki,18
+,3390,Nagybarca,Játszótéri,10
+,3168,Bükkmogyorósd,Barackos,30
+,3493,Erdőhorváti,Géza fejedelem,112
+,3559,Ónod,Újélet,107
+,3775,Galvács,Karinthy Frigyes,118
+,3754,Nyésta,Fenyőfa,98
+,3481,Méra,Kárpát,98
+,3248,Kurityán,Rét,13
+,3683,Felsőzsolca,Dózsa György,103
+,3997,Tiszalúc,Tompa Mihály,16
+,3869,Parasznya,Benczúr Gyula,89
+,3497,Selyeb,Zrínyi,107
+,3964,Hangács,Vas,17
+,3655,Kiscsécs,Béke,31
+,3375,Mogyoróska,Liszt Ferenc,83
+,3531,Viss,Nádasdy Tamás,100
+,3117,Karos,Wesselényi,72
+,3329,Igrici,Rákóczi  Ferenc,117
+,3236,Tiszapalkonya,Kossuth Lajos,102
+,3957,Egerlövő,István király,76
+,3735,Rakacaszend,Mikszáth,96
+,3227,Kiskinizs,Tízhold,45
+,3125,Homrogd,Nyár,115
